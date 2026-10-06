@@ -1,0 +1,8 @@
+# Ignore compiled Java bytecode
+*.class
+
+# Ignore local SQLite database file
+*.db
+
+# Ignore VS Code configuration folder
+.vscode/
